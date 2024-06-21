@@ -1,8 +1,8 @@
 # Hospital-Management-System
 
-### API Endpoints and Data Structures
+## API Endpoints and Data Structures
 
-Auth
+### Auth
 1. Register a new user
 
 URL: /auth/register
@@ -57,7 +57,7 @@ Response:
 
 </pre>
 
-Users
+### Users
 3. Get user profile
 URL: /users/profile
 Method: GET
@@ -102,7 +102,7 @@ Response:
 
 </pre>
 
-Patients
+### Patients
 5. Create a new patient
 
 URL: /patients
@@ -218,7 +218,7 @@ Response:
 
 </pre>
 
-Appointments
+### Appointments
 10 .Create a new appointment
 
 URL: /appointments
@@ -326,7 +326,7 @@ Response:
 
 </pre>
 
-Billing
+### Billing
 15. Create a new billing record
 
 URL: /billings
